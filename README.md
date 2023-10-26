@@ -41,7 +41,7 @@ Coqui TTS and Pyannote diarization will also both perform better if you have CUD
 The latest version of Python works on Linux, but Pyannote is a bit finnicky with that. 3.8.10 seems to work fine on Windows
 
 ### Setup from Source
-To use the project, you'll need to clone the repository and install the dependencies in a virtual enviormonet.
+To use the project, you'll need to clone the repository and install the dependencies in a virtual environment.
 
 ```
 git clone git@github.com/FlorianEagox/weeablind/
